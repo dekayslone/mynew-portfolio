@@ -109,8 +109,8 @@ export const PRICING = [
 
 export const LOGOS = [
   { name: "Otega Oluwaseun Farm Estate", logo: "https://res.cloudinary.com/dajmxjgzq/image/upload/v1772416817/OOFarms_gi1seu.png" },
-  { name: "Reseco Africa", logo: "https://res.cloudinary.com/dajmxjgzq/image/upload/v1772416733/1000001515_qjhj5z.png" },
-  { name: "IBTProg International", logo: "https://res.cloudinary.com/dajmxjgzq/image/upload/v1772416710/Untitled-2_ywawjm.png" },
+  { name: "Reseco Africa", logo: "https://res.cloudinary.com/dajmxjgzq/image/upload/v1772417464/Untitled-1_qc8ooa.png" },
+  { name: "IBTProg International", logo: "https://res.cloudinary.com/dajmxjgzq/image/upload/v1772417552/ibtprog_foohu4.png" },
   { name: "Otega Oluwaseun Consulting", logo: "https://res.cloudinary.com/dajmxjgzq/image/upload/v1772416902/OOC_White_ye0pjp.png" },
   { name: "Ginormous Investment", logo: "https://res.cloudinary.com/dajmxjgzq/image/upload/v1772417150/H_Logo_copy_2_gcbkw4.png" },
 ];
