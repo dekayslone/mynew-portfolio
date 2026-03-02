@@ -47,7 +47,7 @@ export function About() {
 
             <div className="grid grid-cols-2 gap-8 mt-12">
               <div>
-                <h4 className="font-bold text-2xl mb-2">08+</h4>
+                <h4 className="font-bold text-2xl mb-2">05+</h4>
                 <p className="text-sm uppercase tracking-widest opacity-50">Years Experience</p>
               </div>
               <div>

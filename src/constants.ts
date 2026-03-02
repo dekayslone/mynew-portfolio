@@ -18,7 +18,7 @@ export const PROJECTS: Project[] = [
     category: 'Brand Identity',
     description: 'A comprehensive visual identity for a next-gen AI startup, focusing on transparency and fluid motion.',
     fullDescription: 'Lumina Tech required a brand that felt both human and highly advanced. We developed a visual system based on the concept of "Refracted Intelligence," using glass-like textures and fluid gradients. The project included a full logo suite, typography system, and a library of motion assets for their product launch.',
-    image: 'https://picsum.photos/seed/lumina/1200/800',
+    image: 'https://res.cloudinary.com/dajmxjgzq/image/upload/v1772415887/Bullion-Word-Mapping-_-Moodboarding_013016_gr5u2s.jpg',
     year: '2024',
     tags: ['Strategy', 'Identity', 'Flyer'],
     client: 'Lumina AI Corp',
