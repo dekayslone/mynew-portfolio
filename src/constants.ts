@@ -108,10 +108,10 @@ export const PRICING = [
 ];
 
 export const LOGOS = [
-  { name: "Footstool Estates", logo: "https://picsum.photos/seed/footstool/200/100" },
-  { name: "Reseco Africa", logo: "https://picsum.photos/seed/reseco/200/100" },
-  { name: "IBTProg International", logo: "https://picsum.photos/seed/ibtprog/200/100" },
-  { name: "Otega Oluwaseun Consulting", logo: "https://picsum.photos/seed/otega/200/100" },
+  { name: "Otega Oluwaseun Farm Estate", logo: "https://res.cloudinary.com/dajmxjgzq/image/upload/v1772416817/OOFarms_gi1seu.png" },
+  { name: "Reseco Africa", logo: "https://res.cloudinary.com/dajmxjgzq/image/upload/v1772416733/1000001515_qjhj5z.png" },
+  { name: "IBTProg International", logo: "https://res.cloudinary.com/dajmxjgzq/image/upload/v1772416710/Untitled-2_ywawjm.png" },
+  { name: "Otega Oluwaseun Consulting", logo: "https://res.cloudinary.com/dajmxjgzq/image/upload/v1772416902/OOC_White_ye0pjp.png" },
   { name: "Ginormous Investment", logo: "https://picsum.photos/seed/ginormous/200/100" },
   { name: "Oluwaferanmi Famawode", logo: "https://picsum.photos/seed/oluwa/200/100" },
   { name: "Bethel Citizens", logo: "https://picsum.photos/seed/bethel/200/100" }
