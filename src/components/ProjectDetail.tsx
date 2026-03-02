@@ -106,10 +106,10 @@ export function ProjectDetail({ project, onClose }: ProjectDetailProps) {
               </div>
               <div className="grid grid-cols-2 gap-8">
                 <div className="aspect-square rounded-3xl overflow-hidden">
-                  <img src={`https://picsum.photos/seed/${project.id}1/800/800`} className="w-full h-full object-cover" referrerPolicy="no-referrer" />
+                  <img src={`https://res.cloudinary.com/dajmxjgzq/image/upload/v1772415887/Bullion-Word-Mapping-_-Moodboarding_013016_gr5u2s.jpg`} className="w-full h-full object-cover" referrerPolicy="no-referrer" />
                 </div>
                 <div className="aspect-square rounded-3xl overflow-hidden">
-                  <img src={`https://picsum.photos/seed/${project.id}2/800/800`} className="w-full h-full object-cover" referrerPolicy="no-referrer" />
+                  <img src={`https://res.cloudinary.com/dajmxjgzq/image/upload/v1772416482/Classic_Business_Cards_Mockup_yytray.jpg`} className="w-full h-full object-cover" referrerPolicy="no-referrer" />
                 </div>
               </div>
             </motion.div>

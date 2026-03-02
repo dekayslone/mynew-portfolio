@@ -47,12 +47,14 @@ export function Pricing() {
                 ))}
               </ul>
 
-              <a 
-                href="#contact-form"
+              <button
+                type="button"
+                onClick={() => document.getElementById('contact-form')?.scrollIntoView({ behavior: 'smooth', block: 'start' })}
+                aria-label={`Book ${plan.title} - open contact form`}
                 className="w-full py-4 rounded-2xl text-center font-bold uppercase tracking-widest transition-all bg-brand-black text-brand-white hover:bg-brand-accent hover:text-white"
               >
                 Book Now
-              </a>
+              </button>
             </motion.div>
           ))}
         </div>
