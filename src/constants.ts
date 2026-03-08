@@ -26,39 +26,39 @@ export const PROJECTS: Project[] = [
   },
   {
     id: '2',
-    title: 'Aetheria',
+    title: 'Willows & Co Wellness Center',
     category: 'Motion Design',
-    description: 'Dynamic brand storytelling through abstract 3D motion sequences for a luxury fragrance house.',
-    fullDescription: 'For Aetheria, the goal was to visualize scent. We created a series of high-end 3D motion pieces that used particle simulations to represent different fragrance notes. These assets were used across social media and in-store digital displays to create an immersive brand experience.',
-    image: 'https://picsum.photos/seed/aether/1200/800',
+    description: 'An organic farm brand focused on fresh, pesticide-free produce and sustainable farming.',
+    fullDescription: 'Willow & Co. Wellness Center required a calm and refined identity that reflects balance, mindfulness, and holistic healing. The visual system combines a geometric symbol inspired by meditation and inner harmony with a soothing color palette to create a sense of serenity and trust. The result is a modern, tranquil brand identity that positions Willow & Co. as a welcoming destination for individuals seeking wellness, relaxation, and a balanced lifestyle.',
+    image: 'https://res.cloudinary.com/dajmxjgzq/image/upload/v1773001093/Artboard_1_fcofx2.png',
     year: '2023',
-    tags: ['3D Motion', 'Storytelling'],
-    client: 'Aetheria Parfums',
-    role: 'Motion Director'
+    tags: ['Branding', 'Design'],
+    client: 'Willows & Co Wellness Center',
+    role: 'Creative Director'
   },
   {
     id: '3',
-    title: 'Nexus Capital',
+    title: 'Green Sprout Organic Farm',
     category: 'Visual Strategy',
-    description: 'Redefining the visual language of venture capital with a bold, minimalist approach.',
-    fullDescription: 'Nexus Capital wanted to move away from the traditional "stuffy" finance look. We implemented a brutalist-inspired visual strategy using heavy typography and a high-contrast color palette. This repositioned them as a modern, aggressive partner for tech founders.',
-    image: 'https://picsum.photos/seed/nexus/1200/800',
-    year: '2024',
-    tags: ['Typography', 'Strategy'],
-    client: 'Nexus VC',
+    description: 'An organic farm brand focused on fresh, pesticide-free produce and sustainable farming.',
+    fullDescription: 'Green Sprout Organic Farms is an organic farm dedicated to growing and supplying fresh, pesticide-free vegetables, fruits, and herbs to local markets and organic stores. The brand promotes healthy eating and sustainable farming while encouraging communities to reconnect with nature through fresh, responsibly grown produce.',
+    image: 'https://res.cloudinary.com/dajmxjgzq/image/upload/v1773000506/Artboard_1_byrssf.png',
+    year: '2023',
+    tags: ['Branding', 'Flyer', 'Strategy'],
+    client: 'Green Sprout Organic Farm',
     role: 'Visual Strategist'
   },
   {
     id: '4',
     title: 'Da Snacks',
     category: 'Baverage Store',
-    description: 'Interactive brand platform for a global logistics leader, blending utility with high-end aesthetics.',
+    description: 'A playful brand identity designed to capture the joy of snacking for children.',
     fullDescription: 'This branding project for Da-Snacks was designed to capture the joy, playfulness, and care behind a children-focused snack brand. The visual identity combines rounded typography, soft shapes, and a vibrant color palette to reflect fun, energy, and approachability. The deep teal background builds trust and freshness, while the light blue elements introduce a playful tone that appeals to young audiences. The overall design balances childlike excitement with a clean, modern aesthetic, creating a brand that feels both delightful to children and reliable to parent.',
     image: 'https://res.cloudinary.com/dajmxjgzq/image/upload/v1772418282/Artboard_1_atnu50.png',
     year: '2023',
-    tags: ['UI/UX', 'Motion'],
-    client: 'Vanguard Global',
-    role: 'Creative Lead'
+    tags: ['Brand Design', 'Flyer'],
+    client: 'Da Snack',
+    role: 'Brand Designer'
   }
 ];
 
