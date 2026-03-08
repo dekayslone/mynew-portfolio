@@ -2,6 +2,7 @@ import { motion, AnimatePresence } from 'motion/react';
 import { Navbar } from '../components/Navbar';
 import { Hero } from '../components/Hero';
 import { ProjectGrid } from '../components/ProjectGrid';
+import { FlyersGallery } from '../components/FlyersGallery';
 import { About } from '../components/About';
 import { ContactForm } from '../components/ContactForm';
 import { Footer } from '../components/Footer';
@@ -71,6 +72,8 @@ export function Home() {
             <BentoServices />
 
             <ProjectGrid onProjectSelect={setSelectedProject} />
+            
+            <FlyersGallery />
             
             <ProcessTimeline />
 
