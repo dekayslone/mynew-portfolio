@@ -11,6 +11,63 @@ export interface Project {
   role: string;
 }
 
+export interface Flyer {
+  id: string;
+  name: string;
+  imageUrl: string;
+}
+
+export const FLYERS: Flyer[] = [
+  {
+    id: '1',
+    name: 'Reseco Africa Social Media Flyer',
+    imageUrl: 'https://res.cloudinary.com/dajmxjgzq/image/upload/v1773004993/Reseco_Africa_Ubuntu-Mandela_kte71x.png'
+  },
+
+  {
+    id: '2',
+    name: 'Event Flyer - Building Earning Power',
+    imageUrl: 'https://res.cloudinary.com/dajmxjgzq/image/upload/v1773005247/BEP_3DTG_b5l2dt.png'
+  },
+
+  {
+    id: '3',
+    name: 'Webinar Flyer - Reseco Africa',
+    imageUrl: 'https://res.cloudinary.com/dajmxjgzq/image/upload/v1773005228/Reseco_Africa_September_Webinar_xwrihq.png'
+  },
+
+  {
+    id: '4',
+    name: 'AD Flyer - Otega Oluwaseun Farm Estate',
+    imageUrl: 'https://res.cloudinary.com/dajmxjgzq/image/upload/v1773005787/Farm_City_Estate_dllyta.png'
+  },
+
+    {
+    id: '5',
+    name: 'Reseco Africa - International Women Day Flyer',
+    imageUrl: 'https://res.cloudinary.com/dajmxjgzq/image/upload/v1773005685/Reseco_IWD_eew7ne.png'
+  },
+
+      {
+    id: '5',
+    name: 'Reseco Africa - Magazine Page',
+    imageUrl: 'https://res.cloudinary.com/dajmxjgzq/image/upload/v1773006113/Reseco_Africa_LandLine_October_tp8orn.png'
+  },
+
+    {
+    id: '6',
+    name: 'Cave Camp - The Cave Adullam',
+    imageUrl: 'https://res.cloudinary.com/dajmxjgzq/image/upload/v1773005906/PD_Cave_Camp_2025_scfubd.png'
+  },
+
+      {
+    id: '5',
+    name: 'AD Flyer - Otega Oluwaseun Farm Estate',
+    imageUrl: 'https://res.cloudinary.com/dajmxjgzq/image/upload/v1773006363/OTOS_Farmland_New_vwsxfg.png'
+  },
+  
+];
+
 export const PROJECTS: Project[] = [
   {
     id: '1',
