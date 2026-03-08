@@ -31,7 +31,7 @@ export const PROJECTS: Project[] = [
     description: 'An organic farm brand focused on fresh, pesticide-free produce and sustainable farming.',
     fullDescription: 'Willow & Co. Wellness Center required a calm and refined identity that reflects balance, mindfulness, and holistic healing. The visual system combines a geometric symbol inspired by meditation and inner harmony with a soothing color palette to create a sense of serenity and trust. The result is a modern, tranquil brand identity that positions Willow & Co. as a welcoming destination for individuals seeking wellness, relaxation, and a balanced lifestyle.',
     image: 'https://res.cloudinary.com/dajmxjgzq/image/upload/v1773001093/Artboard_1_fcofx2.png',
-    year: '2023',
+    year: '2024',
     tags: ['Branding', 'Design'],
     client: 'Willows & Co Wellness Center',
     role: 'Creative Director'
@@ -43,7 +43,7 @@ export const PROJECTS: Project[] = [
     description: 'An organic farm brand focused on fresh, pesticide-free produce and sustainable farming.',
     fullDescription: 'Green Sprout Organic Farms is an organic farm dedicated to growing and supplying fresh, pesticide-free vegetables, fruits, and herbs to local markets and organic stores. The brand promotes healthy eating and sustainable farming while encouraging communities to reconnect with nature through fresh, responsibly grown produce.',
     image: 'https://res.cloudinary.com/dajmxjgzq/image/upload/v1773000506/Artboard_1_byrssf.png',
-    year: '2023',
+    year: '2025',
     tags: ['Branding', 'Flyer', 'Strategy'],
     client: 'Green Sprout Organic Farm',
     role: 'Visual Strategist'
