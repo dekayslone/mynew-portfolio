@@ -182,21 +182,21 @@ export const TESTIMONIALS = [
   {
     name: "Tosin Adebayo",
     role: "CEO, Green Sprout Organic Farm",
-    content: "Professional, responsive, and very talented. Kayslone delivered exactly what we needed and even added ideas that improved the overall brand look. I would definitely recommend his services.",
+    content: "Professional, responsive, and very talented. DOF delivered exactly what we needed and even added ideas that improved the overall brand look. I would definitely recommend his services.",
     rating: 5,
     score: "4.7"
   },
   {
-    name: "Marcus Chen",
-    role: "Founder, Nexus Capital",
-    content: "I was impressed by the level of creativity and attention to detail. Kayslone didn’t just design a logo, he helped shape the visual direction of our brand. The final result exceeded our expectations.",
+    name: "Chinedu Okafor",
+    role: "Founder",
+    content: "I was impressed by the level of creativity and attention to detail. DOF didn’t just design a logo, he helped shape the visual direction of our brand. The final result exceeded our expectations.",
     rating: 5,
     score: "4.9"
   },
   {
-    name: "Elena Rodriguez",
-    role: "Marketing Director, Aetheria",
-    content: "Working with Kayslone was a smooth experience from start to finish. He understood the vision for our brand and translated it into a clean and professional design that truly represents our business. We’ve received several compliments since launching the new identity. A true creative partner.",
+    name: "Adeola Ojo",
+    role: "Marketing Director",
+    content: "Working with DOF was a smooth experience from start to finish. He understood the vision for our brand and translated it into a clean and professional design that truly represents our business. We’ve received several compliments since launching the new identity. A true creative partner.",
     rating: 5,
     score: "5.0"
   }
@@ -205,19 +205,19 @@ export const TESTIMONIALS = [
 export const PRICING = [
   {
     title: "Branding",
-    price: "50K",
+    price: "120K",
     features: ["Visual Identity", "Logo Suite", "Brand Guidelines", "Strategy Session"],
     accent: "brand-accent"
   },
   {
     title: "Motion Design",
-    price: "35K",
-    features: ["3D/2D Animation", "Brand Storytelling", "Social Assets", "Sound Design"],
+    price: "70K",
+    features: ["Motion Design AD Video", "Brand Storytelling", "Social Assets", "Script Writing"],
     accent: "blue-500"
   },
   {
     title: "Web Development",
-    price: "100K",
+    price: "200K",
     features: ["Custom React Sites", "E-commerce", "Performance Optimization", "SEO Strategy"],
     accent: "emerald-500"
   }
@@ -257,7 +257,7 @@ export const PROCESS = [
 export const FAQS = [
   {
     question: "How long does a typical branding project take?",
-    answer: "A comprehensive branding project usually takes 4-6 weeks, depending on the complexity and scope of deliverables."
+    answer: "A comprehensive branding project usually takes 2-4 weeks, depending on the complexity and scope of deliverables."
   },
   {
     question: "What files will I receive at the end of the project?",
