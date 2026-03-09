@@ -40,7 +40,7 @@ export function Navbar() {
             to="/"
             className="hover:text-brand-accent transition-colors"
           >
-            OKIKI<span className="text-brand-accent">.</span>
+            DOF<span className="text-brand-accent">.</span>
           </Link>
         </motion.div>
 

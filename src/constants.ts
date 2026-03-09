@@ -69,12 +69,11 @@ export const FEATURED_FLYERS: Flyer[] = [
 
 export const ALL_FLYERS: Flyer[] = [
   ...FEATURED_FLYERS,
-  // Add more flyers here for the design portfolio page
-  // {
-  //   id: '9',
-  //   name: 'Your New Flyer Name',
-  //   imageUrl: 'https://your-image-url.com/image.png'
-  // },
+ {
+   id: '9',
+   name: 'IBTProg International - Hiring CRO',
+  imageUrl: 'https://res.cloudinary.com/dajmxjgzq/image/upload/v1773010685/IBTProg_Hiring_CRO_jdttly.png'
+ }
 ];
 
 export const FLYERS: Flyer[] = [
@@ -181,23 +180,23 @@ export const PROJECTS: Project[] = [
 
 export const TESTIMONIALS = [
   {
-    name: "Sarah Jenkins",
-    role: "CEO, Lumina Tech",
-    content: "Okiki transformed our brand from a concept into a visionary leader. The motion work is simply world-class.",
+    name: "Tosin Adebayo",
+    role: "CEO, Green Sprout Organic Farm",
+    content: "Professional, responsive, and very talented. Kayslone delivered exactly what we needed and even added ideas that improved the overall brand look. I would definitely recommend his services.",
     rating: 5,
-    score: "5.0"
+    score: "4.7"
   },
   {
     name: "Marcus Chen",
     role: "Founder, Nexus Capital",
-    content: "Strategic, bold, and incredibly professional. The new visual identity has completely changed how founders perceive us.",
+    content: "I was impressed by the level of creativity and attention to detail. Kayslone didn’t just design a logo, he helped shape the visual direction of our brand. The final result exceeded our expectations.",
     rating: 5,
     score: "4.9"
   },
   {
     name: "Elena Rodriguez",
     role: "Marketing Director, Aetheria",
-    content: "The 3D motion sequences captured our brand essence perfectly. A true creative partner.",
+    content: "Working with Kayslone was a smooth experience from start to finish. He understood the vision for our brand and translated it into a clean and professional design that truly represents our business. We’ve received several compliments since launching the new identity. A true creative partner.",
     rating: 5,
     score: "5.0"
   }
