@@ -13,7 +13,7 @@ export function About() {
               className="aspect-[3/4] rounded-3xl overflow-hidden shadow-2xl"
             >
               <img 
-                src="https://res.cloudinary.com/dajmxjgzq/image/upload/v1772414900/Personal_Brand_Profile_Black_getozx.png" 
+                src="https://res.cloudinary.com/dajmxjgzq/image/upload/v1773415221/Profile_Picture_ypxmj6.png" 
                 alt="Daramola Okiki Favour" 
                 className="w-full h-full object-cover"
                 referrerPolicy="no-referrer"

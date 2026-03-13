@@ -137,7 +137,8 @@ export const PROJECTS: Project[] = [
     image: 'https://res.cloudinary.com/dajmxjgzq/image/upload/v1772416279/PB_March_4th_Slide_2_xurxpy.png',
     year: '2024',
     tags: ['Strategy', 'Identity', 'Flyer'],
-    client: 'Lumina AI Corp',
+    client: 'Bullion Incorporation Limited
+    ',
     role: 'Lead Brand Designer'
   },
   {
