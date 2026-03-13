@@ -205,19 +205,19 @@ export const TESTIMONIALS = [
 export const PRICING = [
   {
     title: "Branding",
-    price: "120K",
+    price: "200K",
     features: ["Visual Identity", "Logo Suite", "Brand Guidelines", "Strategy Session"],
     accent: "brand-accent"
   },
   {
     title: "Motion Design",
-    price: "70K",
+    price: "120K",
     features: ["Motion Design AD Video", "Brand Storytelling", "Social Assets", "Script Writing"],
     accent: "blue-500"
   },
   {
     title: "Web Development",
-    price: "200K",
+    price: "350K",
     features: ["Custom React Sites", "E-commerce", "Performance Optimization", "SEO Strategy"],
     accent: "emerald-500"
   }
