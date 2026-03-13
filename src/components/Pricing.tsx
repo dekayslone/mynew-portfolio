@@ -30,10 +30,11 @@ export function Pricing() {
             >
               <div className="mb-8">
                 <h3 className="text-2xl font-bold uppercase mb-2">{plan.title}</h3>
-                <div className="flex items-baseline gap-1">
+                <div className="flex items-baseline gap-1 mb-2">
                   <span className="text-sm opacity-50 uppercase tracking-widest">Starting from</span>
                   <span className="text-4xl font-display font-bold text-brand-accent">₦{plan.price}</span>
                 </div>
+                <p className="text-xs opacity-60 italic">*Price may vary depending on the scope of the project</p>
               </div>
 
               <ul className="space-y-4 mb-12 flex-grow">
