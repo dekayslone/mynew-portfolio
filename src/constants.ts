@@ -79,6 +79,18 @@ export const ALL_FLYERS: Flyer[] = [
    id: '10',
    name: 'Footstool - Happy Monday',
   imageUrl: 'https://res.cloudinary.com/dajmxjgzq/image/upload/v1775053516/Footstool_HNW_2_mh1mls.png'
+ },
+
+   {
+   id: '11',
+   name: 'Footstool - TGIF',
+  imageUrl: 'https://res.cloudinary.com/dajmxjgzq/image/upload/v1775053490/Footstool_TGIF_xg46v9.png'
+ },
+
+    {
+   id: '12',
+   name: 'Footstool - Happy New Week',
+  imageUrl: 'https://res.cloudinary.com/dajmxjgzq/image/upload/v1775053481/Footstool_HNW_hfcezp.png'
  }
 ];
 
