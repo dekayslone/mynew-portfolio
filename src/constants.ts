@@ -74,6 +74,18 @@ export const ALL_FLYERS: Flyer[] = [
    name: 'IBTProg International - Hiring CRO',
   imageUrl: 'https://res.cloudinary.com/dajmxjgzq/image/upload/v1773010685/IBTProg_Hiring_CRO_jdttly.png'
  }
+
+  {
+   id: '10',
+   name: 'Footstool Estate - TGIF',
+  imageUrl: 'https://res.cloudinary.com/dajmxjgzq/image/upload/v1775053516/Footstool_HNW_2_mh1mls.pngS'
+ }
+
+   {
+   id: '11',
+   name: 'Footstool Estate - TGIF',
+  imageUrl: 'https://res.cloudinary.com/dajmxjgzq/image/upload/v1775053490/Footstool_TGIF_xg46v9.png'
+ }
 ];
 
 export const FLYERS: Flyer[] = [
