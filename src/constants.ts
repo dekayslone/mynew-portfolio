@@ -73,18 +73,12 @@ export const ALL_FLYERS: Flyer[] = [
    id: '9',
    name: 'IBTProg International - Hiring CRO',
   imageUrl: 'https://res.cloudinary.com/dajmxjgzq/image/upload/v1773010685/IBTProg_Hiring_CRO_jdttly.png'
- }
+ },
 
   {
    id: '10',
-   name: 'Footstool Estate - TGIF',
-  imageUrl: 'https://res.cloudinary.com/dajmxjgzq/image/upload/v1775053516/Footstool_HNW_2_mh1mls.pngS'
- }
-
-   {
-   id: '11',
-   name: 'Footstool Estate - TGIF',
-  imageUrl: 'https://res.cloudinary.com/dajmxjgzq/image/upload/v1775053490/Footstool_TGIF_xg46v9.png'
+   name: 'Footstool - Happy Monday',
+  imageUrl: 'https://res.cloudinary.com/dajmxjgzq/image/upload/v1775053516/Footstool_HNW_2_mh1mls.png'
  }
 ];
 
@@ -149,8 +143,7 @@ export const PROJECTS: Project[] = [
     image: 'https://res.cloudinary.com/dajmxjgzq/image/upload/v1772416279/PB_March_4th_Slide_2_xurxpy.png',
     year: '2024',
     tags: ['Strategy', 'Identity', 'Flyer'],
-    client: 'Bullion Incorporation Limited
-    ',
+    client: 'Bullion Incorporation Limited',
     role: 'Lead Brand Designer'
   },
   {
