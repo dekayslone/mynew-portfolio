@@ -54,11 +54,11 @@ export const FEATURED_FLYERS: Flyer[] = [
     imageUrl: 'https://res.cloudinary.com/dajmxjgzq/image/upload/v1773006113/Reseco_Africa_LandLine_October_tp8orn.png'
   },
 
-    {
-    id: '7',
-    name: 'Cave Camp - The Cave Adullam',
-    imageUrl: 'https://res.cloudinary.com/dajmxjgzq/image/upload/v1773005906/PD_Cave_Camp_2025_scfubd.png'
-  },
+ {
+   id: '12',
+   name: 'Footstool - Happy New Week',
+  imageUrl: 'https://res.cloudinary.com/dajmxjgzq/image/upload/v1775053481/Footstool_HNW_hfcezp.png'
+ },
 
       {
     id: '8',
@@ -87,11 +87,12 @@ export const ALL_FLYERS: Flyer[] = [
   imageUrl: 'https://res.cloudinary.com/dajmxjgzq/image/upload/v1775053490/Footstool_TGIF_xg46v9.png'
  },
 
-    {
-   id: '12',
-   name: 'Footstool - Happy New Week',
-  imageUrl: 'https://res.cloudinary.com/dajmxjgzq/image/upload/v1775053481/Footstool_HNW_hfcezp.png'
- }
+     {
+    id: '12',
+    name: 'Cave Camp - The Cave Adullam',
+    imageUrl: 'https://res.cloudinary.com/dajmxjgzq/image/upload/v1773005906/PD_Cave_Camp_2025_scfubd.png'
+  },
+
 ];
 
 export const FLYERS: Flyer[] = [
